@@ -10,7 +10,7 @@ clear
 echo
 echo "#############################################################"
 echo "# One click Install ShadowsocksR Server                     #"
-echo "# Modify: Hellotimo                                         #"
+echo "# Modify: hellotimo                                         #"
 echo "#############################################################"
 echo
 
